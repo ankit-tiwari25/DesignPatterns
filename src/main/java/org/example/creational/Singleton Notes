@@ -1,0 +1,19 @@
+ --------Singleton Design Pattern -------
+
+ Design Pattern - Since a lot of problems in software development repeats itself, so if problems can repeat, solutions can also repeat.
+
+ Design Pattern helps you to solve most of the commonly occured software deisgn problems.
+
+ Mainly of three types.
+ 1. Creational : Deals with object creation and how many object can be created.
+        a) Singleton : Only one object can be created.
+        b) Builder   : Object creation for multiple users, restricting object creation to validated users onyl...
+        c) Factory   :
+                    i  . Simple
+                    ii . Abstract
+                    iii. Practical
+        d) Prototype and Registry
+
+
+ 2. Behavioural
+ 3. Structural
