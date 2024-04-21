@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0b7acb-38c3-4419-b0c8-618f73c23421" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/Theory- Builder Design Pattern" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/exceptions/InvalidAgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/exceptions/InvalidGradYearException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/exceptions/InvalidNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/Singleton Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/Singleton Notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +50,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.creational.builder.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.creational.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Design Patterns" />
       <method v="2">
@@ -70,6 +76,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

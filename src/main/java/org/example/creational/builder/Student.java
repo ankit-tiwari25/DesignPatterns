@@ -25,7 +25,11 @@ public class Student {
 
     public String toString(){
         return "Student { + " +
-                "id : " + id;
+                " id : " + id +
+                " age : " + age +
+                " name : " + name +
+                " gradYear : " + gradYear +
+                " phoneNumber : " + phoneNumber;
     }
 
 
