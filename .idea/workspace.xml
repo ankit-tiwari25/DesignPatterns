@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0b7acb-38c3-4419-b0c8-618f73c23421" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Theory- Design Patterns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/Singleton Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/Theory- Builder Design Pattern" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/exceptions/InvalidAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/exceptions/InvalidGradYearException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/exceptions/InvalidNameException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/Singleton Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/Singleton Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/Singleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,11 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\blog-application\DesignPatterns\Design Patterns\src\main\java\org\example\creational\singleton" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Design Patterns" />

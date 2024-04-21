@@ -1,0 +1,18 @@
+Builder design pattern : one of the complex design pattern.
+
+1. It's a creational design pattern, means it deals with object creation.
+2. We use this whenever we have to create object of a complex class.
+    (Complex class - class having a lot of attributes, including non primitive ones)
+
+
+
+Steps -
+
+1. First we create a main class, in this case it's "student" with all the required attributes.
+2. Create a static builder method to create an empty builder object. (We will use this from main)
+
+3. Create a static inner class "Builder" with the same attributes as of Student class.
+4. Apply setters..(Smart move : change return type to Builder for chaining)
+5. Create a validate method to validate only essential attributes. (throw exceptions for invalid attributes)
+6. Create build method to return a student object with all set attributes.
+
