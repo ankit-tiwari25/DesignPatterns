@@ -1,0 +1,6 @@
+Prototype Design Pattern : It is used to create multiple copies of an object with minimal attribute change
+
+Example : classmate ki notebook.., A4 size, 120 pages, 50 rupees...but last page wolud be different.
+Implemented through copy constructor.
+
+Registry Design Pattern : it will have
