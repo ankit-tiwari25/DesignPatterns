@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0b7acb-38c3-4419-b0c8-618f73c23421" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/Theory - FactoryDesignPattern" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/Theory - FactoryDesignPattern" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/factory/Theory - FactoryDesignPattern" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
