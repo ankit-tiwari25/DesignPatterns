@@ -1,0 +1,7 @@
+Theory - Adapter Design Pattern
+Imagine an adapter : sits between two interface to help them communicate each other.
+Example : Phone ka adapter - converts AC - DC
+
+Similarly whenever you need to communicate with third party applications, always go for Adapter design pattern.
+Don't make your code tightly coupled with third party. Always use an extra layer which will communicate with third party applications.
+Always keep your code loosely coupled with third party applications.

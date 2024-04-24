@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0b7acb-38c3-4419-b0c8-618f73c23421" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/adapter/Theory - Adapter Design Pattern" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/creational/prototype/Theory - Prototype and Registry Design Pattern" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/prototype/Theory - Prototype and Registry Design Pattern" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +41,17 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.editor"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT",
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\blog-application\DesignPatterns\Design Patterns\src\main\java\org\example\structural\adapter" />
       <recent name="D:\Projects\blog-application\DesignPatterns\Design Patterns\src\main\java\org\example\creational\singleton" />
     </key>
   </component>
