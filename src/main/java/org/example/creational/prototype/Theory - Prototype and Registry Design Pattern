@@ -1,6 +1,39 @@
-Prototype Design Pattern : It is used to create multiple copies of an object with minimal attribute change
+Prototype Design Pattern : It is used to create multiple deep copies of an object with minimal attribute change.
+To the point : Example : classmate ki notebook.., A4 size, 120 pages, 50 rupees...but last page wolud be different.
+               Implemented through copy constructor.
 
-Example : classmate ki notebook.., A4 size, 120 pages, 50 rupees...but last page wolud be different.
-Implemented through copy constructor.
+               Registry Design Pattern : it will have
 
-Registry Design Pattern : it will have
+
+
+----------------PROTOTYPE DESIGN PATTERN -----------------------------------------
+Solution 1 :
+ main(){
+        Student st  = new Student();
+        Student stcopy = Student();
+        stcopy.id = st.id;
+        stcopy.name = st.name; etc etc...
+ }
+
+ Cons : 1. Client needs to know all implementation details of student.
+        2. Students might have some private attributes which can be inaccessible.
+        3. Lengthy code.
+
+
+  Solution 2: Using copy constructor
+
+  class Student{
+        Student(Student st){
+            .............
+            .............
+        }
+    }
+
+    main(){
+
+       Student student = new Student();
+       Student st1 = new Student(student);
+     }
+
+
+
